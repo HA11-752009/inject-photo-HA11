@@ -23,5 +23,5 @@ bash run.sh
 chmod +x *
 bash run.sh
 ```
-### متنساش تتابعني لو حابب اتبرع اتبرع من اليوتيوب
+### متنساش تتابعني لو حابب تتبرع اتبرع من اليوتيوب
 ### Don't forget to follow me if you would like to donate. I can donate from YouTube.
