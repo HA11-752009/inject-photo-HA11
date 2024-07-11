@@ -1,0 +1,6 @@
+pillow
+steganography
+argparse
+colorama
+pygame
+selenium
